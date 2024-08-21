@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hedgetrack/static/css/main.3d4f7b0a.css",
+    "main.js": "/hedgetrack/static/js/main.d8e49d83.js",
+    "static/js/453.c837fde3.chunk.js": "/hedgetrack/static/js/453.c837fde3.chunk.js",
+    "index.html": "/hedgetrack/index.html",
+    "main.3d4f7b0a.css.map": "/hedgetrack/static/css/main.3d4f7b0a.css.map",
+    "main.d8e49d83.js.map": "/hedgetrack/static/js/main.d8e49d83.js.map",
+    "453.c837fde3.chunk.js.map": "/hedgetrack/static/js/453.c837fde3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d4f7b0a.css",
+    "static/js/main.d8e49d83.js"
+  ]
+}
